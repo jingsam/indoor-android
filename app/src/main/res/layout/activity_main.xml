@@ -17,8 +17,7 @@
         mapbox:center_latitude="-0.008069"
         mapbox:zoom="10"
         mapbox:logo_enabled="false"
-        mapbox:attribution_enabled="false"
-        mapbox:debug_active="true"/>
+        mapbox:attribution_enabled="false"/>
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/location_toggle_fab"
